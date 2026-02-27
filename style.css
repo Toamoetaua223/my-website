@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=UnifrakturCook:wght@700&family=Varela+Round&family=Young+Serif&display=swap');
+
+h1{
+   font-size: 100px;
+    color:blueviolet;
+   text-align: center;
+   font-family: "Bungee Spice", sans-serif;
+}
+
+body {
+   background-image: url( paste_image_address_here) ;
+   background-size: cover;
+
+}
+
